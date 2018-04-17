@@ -1,0 +1,15 @@
+"D:\embedded tools\IAR\arm\bin\armproc.dll" 
+
+"D:\embedded tools\IAR\arm\bin\armjlink2.dll" 
+
+"E:\Project\STM32\STM32F1_IAR\project\STM32F103_Demo\Debug\Exe\STM32F103_Demo.out" 
+
+--plugin "D:\embedded tools\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\embedded tools\IAR\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\embedded tools\IAR\arm\config\flashloader\ST\FlashSTM32F10xxE.board" 
+
+
+
+
